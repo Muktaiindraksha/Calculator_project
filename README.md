@@ -1,4 +1,4 @@
-This is calculator project repositary.
+This is calculator project repository.
 #https://6609564fb87aa3b35f434638--jocular-cajeta-ceb036.netlify.app/
 *Screenshot of calculator*
 
